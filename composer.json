@@ -8,5 +8,7 @@
             "email": "lrewerthon@hotmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "guzzlehttp/guzzle": "^7.1"
+    }
 }
