@@ -1,0 +1,12 @@
+{
+    "name": "ewerthondev/buscador-cursos",
+    "description": "Projeto de busca de cursos no site da Alura",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Ewerthon Silva",
+            "email": "lrewerthon@hotmail.com"
+        }
+    ],
+    "require": {}
+}
